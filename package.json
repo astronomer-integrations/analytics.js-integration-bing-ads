@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-bing-ads",
+  "name": "@astronomerio/analytics.js-integration-bing-ads",
   "description": "The Bing Ads analytics.js integration.",
   "version": "2.0.0",
   "keywords": [
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/segment-integrations/analytics.js-integration-bing-ads.git"
+    "url": "git+https://github.com/astronomer-integrations/analytics.js-integration-bing-ads.git"
   },
-  "author": "Segment <friends@segment.com>",
+  "author": "Astronomer <info@astronomer.io>",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/segment-integrations/analytics.js-integration-bing-ads/issues"
+    "url": "https://github.com/astronomer-integrations/analytics.js-integration-bing-ads/issues"
   },
-  "homepage": "https://github.com/segment-integrations/analytics.js-integration-bing-ads#readme",
+  "homepage": "https://github.com/astronomer-integrations/analytics.js-integration-bing-ads#readme",
   "dependencies": {
     "@segment/analytics.js-integration": "^2.1.0"
   },
