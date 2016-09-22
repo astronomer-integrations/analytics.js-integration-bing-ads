@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-bing-ads",
+  "name": "@astronomerio/analytics.js-integration-bing-ads",
   "description": "The Bing Ads analytics.js integration.",
   "version": "2.0.0",
   "keywords": [
